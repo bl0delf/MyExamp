@@ -1,0 +1,183 @@
+2018-11-19 14:24:35.3773 ERROR                   21|            CheckLoginStep |               DoStep | [172.16.1.139][1] CheckLogin failed KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 172.16.1.139:50003
+2018-11-19 14:28:45.7210 ERROR                   21|     PrintInstallationStep |  InstallPrintBrowser | [172.16.1.139][1] Print browser application installation failed, Print Browser application is not supported on the device. 
+2018-11-19 14:28:46.6614 ERROR                   21|      ScanInstallationStep |   InstallScanBrowser | [172.16.1.139][1] Scan browser application installation failed, Scan Browser application is not supported on the device. 
+2018-11-19 14:28:46.6770 ERROR                   21| nticationInstallationStep | nstallAuthentication | [172.16.1.139][1] Authentication application installation failed, Authentication application is not supported on the device. 
+2018-11-19 14:29:19.4111 ERROR                   40|     PrintInstallationStep |  InstallPrintBrowser | [172.16.1.139][1] Print browser application installation failed, Print Browser application is not supported on the device. 
+2018-11-19 14:29:20.7324 ERROR                   40|      ScanInstallationStep |   InstallScanBrowser | [172.16.1.139][1] Scan browser application installation failed, Scan Browser application is not supported on the device. 
+2018-11-19 14:33:34.4756 ERROR                   40|     PrintInstallationStep |  InstallPrintBrowser | [172.16.1.139][1] Print browser application installation failed, Print Browser application is not supported on the device. 
+2018-11-19 14:33:35.2285 ERROR                   40|      ScanInstallationStep |   InstallScanBrowser | [172.16.1.139][1] Scan browser application installation failed, Scan Browser application is not supported on the device. 
+2018-11-19 14:42:44.4705 ERROR                   23|          AuthenticateStep | AuthenticationFailed | [172.16.1.139][1] User authentication failed. 
+2018-11-19 14:42:44.5593 ERROR                   23|      AuthenticationCommon |         Authenticate | [172.16.1.139][1] User authentication failed. 
+2018-11-19 14:43:02.5587 ERROR                   20|          AuthenticateStep | AuthenticationFailed | [172.16.1.139][1] User authentication failed. 
+2018-11-19 14:43:02.6007 ERROR                   20|      AuthenticationCommon |         Authenticate | [172.16.1.139][1] User authentication failed. 
+2018-11-19 14:46:07.0779 ERROR                   11|            CheckLoginStep |               DoStep | [172.16.1.134][2] Could not login to device due to [14: fail login]. 
+2018-11-19 15:34:11.8251 ERROR                   36|              RegisterStep |                 Step | [172.16.1.134][2] Card registration failed. 
+2018-11-19 15:34:12.0038 ERROR                   36|      AuthenticationCommon |             Register | [172.16.1.134][2] Registration failed. 
+2018-11-19 15:37:17.6845 ERROR                   35|           LanguageManager |    SetThreadLanguage | [2] Session language not found in cache, English set. 
+2018-11-19 15:44:43.9867 ERROR                   58|           LanguageManager |    SetThreadLanguage | [2] Session language not found in cache, English set. 
+2018-11-19 15:47:47.3818 ERROR                    5|        AbstractInvocation |              Proceed | Box disconnected 
+2018-11-20 12:23:39.1334 ERROR                   40|           ExceptionLogger |             LogAsync | An unhandled exception in YSoft SQTA occurred. System.Net.Http.HttpRequestException: Error while copying content to a stream. ---> System.IO.IOException ---> System.Net.HttpListenerException: Указанное сетевое имя более недоступно
+2018-11-20 12:25:55.6217 ERROR                   33|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 12:26:02.9117 ERROR                   37|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 12:26:27.9918 ERROR                   45|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 12:26:35.3013 ERROR                   18|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 12:26:37.1139 ERROR                   18|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 12:26:43.9732 ERROR                   18|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 12:26:48.5562 ERROR                   18|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 12:26:49.8482 ERROR                   13|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 12:26:50.5728 ERROR                   40|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 12:26:51.4781 ERROR                   40|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 12:27:01.8258 ERROR                   40|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 12:27:03.8677 ERROR                   40|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 12:29:19.6920 ERROR                   18|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 12:29:46.0455 ERROR                   18|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 12:29:52.4107 ERROR                   35|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 12:29:57.9859 ERROR                   35|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 12:30:03.8951 ERROR                   35|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 12:43:10.3189 ERROR                   49|           ExceptionLogger |             LogAsync | An unhandled exception in YSoft SQTA occurred. System.Net.Http.HttpRequestException: Error while copying content to a stream. ---> System.IO.IOException ---> System.Net.HttpListenerException: Указанное сетевое имя более недоступно
+2018-11-20 12:44:35.6920 ERROR                   50|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 12:45:29.2281 ERROR                   56|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 12:45:33.8355 ERROR                   56|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 12:45:37.9742 ERROR                   56|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 12:45:40.9263 ERROR                   56|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 12:46:50.8326 ERROR                   53|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 12:46:58.5045 ERROR                   50|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 14:05:48.9898 ERROR                   42|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 15:08:55.8824 ERROR                   33|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 15:09:20.8463 ERROR                   46|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 15:09:27.0651 ERROR                   52|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 15:09:28.6285 ERROR                   52|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 15:09:31.7399 ERROR                   52|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 15:09:33.4596 ERROR                   52|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 15:09:38.0035 ERROR                   52|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 15:10:08.6022 ERROR                   52|           ExceptionLogger |             LogAsync | An unhandled exception in YSoft SQTA occurred. System.Net.Http.HttpRequestException: Error while copying content to a stream. ---> System.IO.IOException ---> System.Net.HttpListenerException: Указанное сетевое имя более недоступно
+2018-11-20 15:10:24.4273 ERROR                   52|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 15:10:30.8346 ERROR                   52|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 15:10:34.3932 ERROR                   56|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 15:10:35.6627 ERROR                   52|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 15:10:36.4127 ERROR                   53|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 15:28:36.8795 ERROR                   43|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 16:42:51.9088 ERROR                   66|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 16:42:59.6275 ERROR                   66|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 16:43:42.3619 ERROR                   67|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 16:43:48.8512 ERROR                   59|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 16:43:52.4410 ERROR                   53|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 16:43:54.0650 ERROR                   59|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 16:47:35.7691 ERROR                   50|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 16:47:44.6754 ERROR                   53|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 17:09:26.6881 ERROR                   36|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 17:24:40.3444 ERROR                   33|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 17:54:56.8912 ERROR                   45|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-20 18:03:21.3600 ERROR                   47|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 07:35:14.1538 ERROR                   61|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 08:39:55.6518 ERROR                   36|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:01:56.3677 ERROR                   54|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:02:04.3423 ERROR                   65|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:02:13.1997 ERROR                   66|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:02:15.0093 ERROR                   66|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:03:04.0406 ERROR                   66|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:03:50.7134 ERROR                   56|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:03:58.1977 ERROR                   33|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:40:48.7153 ERROR                   55|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:40:55.6811 ERROR                   51|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:41:04.7749 ERROR                   51|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:41:14.4184 ERROR                   51|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:41:30.5239 ERROR                   51|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:46:08.0730 ERROR                   33|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:46:17.5395 ERROR                   50|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:46:20.5444 ERROR                   54|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:46:21.1372 ERROR                   50|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:47:22.2896 ERROR                   49|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:47:29.0552 ERROR                    6|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:47:33.1186 ERROR                   49|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:47:33.9468 ERROR                   49|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:47:50.9644 ERROR                   49|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:47:53.1177 ERROR                   49|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:47:56.9458 ERROR                   49|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:48:47.9458 ERROR                   61|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 09:58:31.6489 ERROR                   47|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 10:08:46.6226 ERROR                    6|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 10:09:49.2339 ERROR                   36|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 11:08:24.4146 ERROR                   52|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 11:08:29.6851 ERROR                   52|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 11:09:33.4194 ERROR                   52|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 11:09:34.6079 ERROR                   52|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 11:09:39.4204 ERROR                   52|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 11:09:49.4927 ERROR                   52|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 11:15:56.1020 ERROR                   13|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 11:16:04.1489 ERROR                   13|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 11:16:15.2769 ERROR                   33|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 11:16:17.4614 ERROR                   33|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 11:31:10.3541 ERROR                   43|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 11:40:27.0610 ERROR                   49|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 11:47:27.5776 ERROR                   49|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 11:47:34.1333 ERROR                   46|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 11:48:32.1811 ERROR                   46|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 11:48:38.7143 ERROR                   46|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 11:50:51.6050 ERROR                   52|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 11:50:57.9614 ERROR                   46|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 11:51:33.5161 ERROR                   45|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 11:51:59.8852 ERROR                   55|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 11:57:27.3696 ERROR                   40|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 12:29:50.8833 ERROR                   39|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 12:31:23.1694 ERROR                   39|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 12:31:27.0776 ERROR                   43|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 12:31:27.6489 ERROR                   43|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 12:33:57.1655 ERROR                   37|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 14:13:23.5103 ERROR                   43|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 14:13:30.2739 ERROR                   43|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 14:29:26.0435 ERROR                   51|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 14:32:03.7895 ERROR                   43|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 14:33:07.6528 ERROR                    6|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 14:36:06.1802 ERROR                   44|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 14:53:46.3415 ERROR                   44|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 14:54:02.2290 ERROR                   44|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 14:54:04.6645 ERROR                   49|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 15:00:08.1675 ERROR                   18|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 15:27:31.7895 ERROR                   51|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 15:27:32.9946 ERROR                   51|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 15:27:47.8677 ERROR                   51|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 15:28:14.4614 ERROR                    6|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 15:28:15.5708 ERROR                    6|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 15:35:02.8560 ERROR                   37|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 15:35:53.0552 ERROR                   62|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 15:36:01.3999 ERROR                   44|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 15:36:03.2593 ERROR                   18| nticateWithBrowserCommand |           ToCardPage | [172.16.1.134][2] Error in page change. KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 15:36:11.2495 ERROR                   58| nticateWithBrowserCommand |           ToCardPage | [172.16.1.134][2] Error in page change. KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 15:36:24.2964 ERROR                   55| nticateWithBrowserCommand |           ToCardPage | [172.16.1.134][2] Error in page change. KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 15:36:32.4848 ERROR                   53| nticateWithBrowserCommand |           ToCardPage | [172.16.1.134][2] Error in page change. KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 15:36:42.4536 ERROR                   47| nticateWithBrowserCommand |           ToCardPage | [172.16.1.134][2] Error in page change. KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 15:37:09.2358 ERROR                   33| nticateWithBrowserCommand |           ToCardPage | [172.16.1.134][2] Error in page change. KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 15:37:15.2641 ERROR                   47| nticateWithBrowserCommand |           ToCardPage | [172.16.1.134][2] Error in page change. KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 15:38:32.1978 ERROR                   52|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 15:40:13.0239 ERROR                   52|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 15:41:26.8013 ERROR                   59| nticateWithBrowserCommand |           ToCardPage | [172.16.1.134][2] Error in page change. KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 15:41:30.5493 ERROR                   18| nticateWithBrowserCommand |           ToCardPage | [172.16.1.134][2] Error in page change. KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 15:42:08.9556 ERROR                   53| nticateWithBrowserCommand |           ToCardPage | [172.16.1.134][2] Error in page change. KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 15:42:42.1304 ERROR                   49| nticateWithBrowserCommand |           ToCardPage | [172.16.1.134][2] Error in page change. KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 15:42:44.8052 ERROR                   55| nticateWithBrowserCommand |           ToCardPage | [172.16.1.134][2] Error in page change. KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 15:48:53.0102 ERROR                   33|            CheckLoginStep |               DoStep | [172.16.1.134][2] CheckLogin failed KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 15:50:47.4448 ERROR                   52|            CheckLoginStep |               DoStep | [172.16.1.134][2] CheckLogin failed KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 15:53:32.7896 ERROR                   60|    ThumbTopPositionHelper |              Execute | Current page not defined. 
+2018-11-21 15:53:45.8088 ERROR                   34|            CheckLoginStep |               DoStep | [172.16.1.134][2] CheckLogin failed KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 15:54:49.4937 ERROR                    5|      ContainerBootstraper |                Start | An error occurred during terminal server startup Castle.MicroKernel.ComponentActivator.ComponentActivatorException: ComponentActivator: could not instantiate TerminalServer.Communicator.NMQ.NetMQDS9Box ---> System.Reflection.TargetInvocationException: Адресат вызова создал исключение. ---> System.Net.Sockets.SocketException: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера 127.0.0.1:54343
+2018-11-21 15:54:49.5152 ERROR                    5|                 <no type> |          <no method> | TS started with error System.AggregateException: Произошла одна или несколько ошибок. ---> Castle.MicroKernel.ComponentActivator.ComponentActivatorException: ComponentActivator: could not instantiate TerminalServer.Communicator.NMQ.NetMQDS9Box ---> System.Reflection.TargetInvocationException: Адресат вызова создал исключение. ---> System.Net.Sockets.SocketException: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера 127.0.0.1:54343
+2018-11-21 16:07:11.8354 ERROR                   11|          DeviceInfoSource |       LoadDeviceInfo | [172.16.1.134][2] Error during device info processing occurred. KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 16:07:11.8618 ERROR                   11|              <Invoke>d__2 |             MoveNext | Error processing request: [[172.16.1.134] [GET] on port: [5022], uri:[/et/v1/2/auth/logout], query: []] Castle.MicroKernel.ComponentActivator.ComponentActivatorException: ComponentActivator: could not instantiate YSoft.Sqta.Client.Resolvers.KonicaMinoltaClientSettingsResolver ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 16:08:11.0571 ERROR                   11|          DeviceInfoSource |       LoadDeviceInfo | [172.16.1.134][2] Error during device info processing occurred. KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 16:08:11.0571 ERROR                   11|              <Invoke>d__2 |             MoveNext | Error processing request: [[172.16.1.134] [GET] on port: [5022], uri:[/et/v1/2/auth/logout], query: []] Castle.MicroKernel.ComponentActivator.ComponentActivatorException: ComponentActivator: could not instantiate YSoft.Sqta.Client.Resolvers.KonicaMinoltaClientSettingsResolver ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 16:09:13.1655 ERROR                   11|          DeviceInfoSource |       LoadDeviceInfo | [172.16.1.134][2] Error during device info processing occurred. KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 16:09:13.1655 ERROR                   11|              <Invoke>d__2 |             MoveNext | Error processing request: [[172.16.1.134] [GET] on port: [5022], uri:[/et/v1/2/auth/logout], query: []] Castle.MicroKernel.ComponentActivator.ComponentActivatorException: ComponentActivator: could not instantiate YSoft.Sqta.Client.Resolvers.KonicaMinoltaClientSettingsResolver ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 16:10:40.6060 ERROR                   10|                    Client |      RequestResponse | Box disconnected (before send) 
+2018-11-21 16:10:40.6060 ERROR                   10|  TerminalLoaderMiddleware |         LoadTerminal | Unable to load terminal. Returning 403. 
+2018-11-21 16:10:46.7505 ERROR                   10|                    Client |      RequestResponse | Box disconnected (before send) 
+2018-11-21 16:10:46.7505 ERROR                   10|  TerminalLoaderMiddleware |         LoadTerminal | Unable to load terminal. Returning 403. 
+2018-11-21 16:12:11.5356 ERROR                   10|          DeviceInfoSource |       LoadDeviceInfo | [172.16.1.134][2] Error during device info processing occurred. KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 16:12:11.5503 ERROR                   10|              <Invoke>d__2 |             MoveNext | Error processing request: [[172.16.1.134] [GET] on port: [5022], uri:[/et/v1/2/auth/logout], query: []] Castle.MicroKernel.ComponentActivator.ComponentActivatorException: ComponentActivator: could not instantiate YSoft.Sqta.Client.Resolvers.KonicaMinoltaClientSettingsResolver ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 16:13:15.1431 ERROR                   10|          DeviceInfoSource |       LoadDeviceInfo | [172.16.1.134][2] Error during device info processing occurred. KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 16:13:15.1489 ERROR                   10|              <Invoke>d__2 |             MoveNext | Error processing request: [[172.16.1.134] [GET] on port: [5022], uri:[/et/v1/2/auth/logout], query: []] Castle.MicroKernel.ComponentActivator.ComponentActivatorException: ComponentActivator: could not instantiate YSoft.Sqta.Client.Resolvers.KonicaMinoltaClientSettingsResolver ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 16:14:18.7027 ERROR                   10|          DeviceInfoSource |       LoadDeviceInfo | [172.16.1.134][2] Error during device info processing occurred. KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 16:14:18.7114 ERROR                   10|              <Invoke>d__2 |             MoveNext | Error processing request: [[172.16.1.134] [GET] on port: [5022], uri:[/et/v1/2/auth/logout], query: []] Castle.MicroKernel.ComponentActivator.ComponentActivatorException: ComponentActivator: could not instantiate YSoft.Sqta.Client.Resolvers.KonicaMinoltaClientSettingsResolver ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 16:15:22.2280 ERROR                   10|          DeviceInfoSource |       LoadDeviceInfo | [172.16.1.134][2] Error during device info processing occurred. KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 16:15:22.2280 ERROR                   10|              <Invoke>d__2 |             MoveNext | Error processing request: [[172.16.1.134] [GET] on port: [5022], uri:[/et/v1/2/auth/logout], query: []] Castle.MicroKernel.ComponentActivator.ComponentActivatorException: ComponentActivator: could not instantiate YSoft.Sqta.Client.Resolvers.KonicaMinoltaClientSettingsResolver ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> KONICAMINOLTA.OpenAPISDK.CommonLibrary.SDKLibraryWebException: Время ожидания операции истекло
+2018-11-21 16:16:25.6275 ERROR                   34|          DeviceInfoSource |       LoadDeviceInfo | [17
